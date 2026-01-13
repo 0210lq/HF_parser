@@ -95,4 +95,10 @@ Thumbs.db
 *.temp
 *.bak
 *.swp
+tmpclaude-*
+
+# Cache files
+*.pyc
+__pycache__/
+.cache/
 
